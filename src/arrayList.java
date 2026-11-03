@@ -12,11 +12,13 @@ import java.util.ArrayList;
     lista2.add("2");
     lista2.add("3");
     lista2.add("4");
+    lista2.add("5");
     System.out.println(lista2 );
     lista.add("ana");
     lista.add("ben");
     lista.add("ciao");
     lista.add("daniel");
+    lista.add("lucas");
     System.out.println(lista);
 for(int i = 0; i < lista2.size();i++) {
     for(int j = 0; j < lista.size();j++) {
